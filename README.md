@@ -30,7 +30,7 @@ let dkdbody = 'params=cc14402e1XXXXXXX5c2845'
 
 # 操作步骤
 ## Step 1 Fork仓库
-打开[代码链接](https://github.com/qianx443/dkd)并Fork我的仓库
+打开[代码链接](https://github.com/qianx443/dkd)并Fork我的仓库。
 1
 ##  Step 2 设置Cookie
 fork完之后,如图点击<font color="red">Settings</font>
